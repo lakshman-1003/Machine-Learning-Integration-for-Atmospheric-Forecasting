@@ -62,11 +62,6 @@ atmospheric-ml-forecast/
 │── requirements.txt      # Python dependencies
 │── README.md             # Project documentation (this file)
 
-⚙️ Installation & Usage
-# Clone the repository
-git clone https://github.com/your-username/atmospheric-ml-forecast.git
-cd atmospheric-ml-forecast
-
 # Create and activate virtual environment (optional)
 python -m venv venv
 source venv/bin/activate   # for Linux/Mac
