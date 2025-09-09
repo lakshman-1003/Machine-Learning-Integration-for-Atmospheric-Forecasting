@@ -5,9 +5,7 @@ This project implements a machine learning-driven framework to improve the accur
 The project is based on the research work:
 📄 "Machine Learning Integration for Improved Accuracy and Efficiency in Atmospheric Forecasting," Indian Journal of Computer Science and Technology, Vol. 4, Issue 2, May-August 2025 
 
-INDJCST_V4I2_09_52_60_1746620733
-
-.
+INDJCST_V4I2_09_52_60_1746620733.
 
 🚀 Features
 
